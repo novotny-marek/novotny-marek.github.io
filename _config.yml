@@ -22,13 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "PRUKAZOVA-FOTKA.jpg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Marek Novotný"
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Prague, Czechia"
+  employer         : "Science Faculty, Charles University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "marek.novotny@natur.cuni.cz"
+  email            : "ahoj@mnovotny.xyz" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
