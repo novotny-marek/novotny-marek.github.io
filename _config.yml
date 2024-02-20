@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "PRUKAZOVA-FOTKA.jpg"
+  avatar           : "images/PRUKAZOVA-FOTKA.jpg"
   name             : "Marek Novotný"
   pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
