@@ -19,4 +19,4 @@ Linux server administration.
 Outside of university I work at [CZ.NIC](https://nic.cz) at
 [Turris](https://turris.cz) as a Tech support specialist. My work consists of
 resolving tickets from our users, improving the documentation and a little bit
-of everything, it's and open-source project :)
+of everything, it's an open-source project :)
