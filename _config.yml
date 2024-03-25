@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Marek Novotný"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Geographer, data science and open source enthusiast."
   location         : "Prague, Czechia"
   employer         : "Science Faculty, Charles University"
   uri              : # URL
@@ -135,7 +135,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  # "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
