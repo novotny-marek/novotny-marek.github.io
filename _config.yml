@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "About me:"
+title                    : "Personal website"
 title_separator          : "-"
 name                     : &name "Marek Novotný"
 description              : &description "personal description"
