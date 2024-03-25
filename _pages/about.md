@@ -9,7 +9,8 @@ redirect_from:
 
 I'm a student of human geography at Science Faculty, Charles University in
 Prague, Czechia. Apart from geography I'm an open-source, open-science
-enthusiast. My interests are: spatial data science, urbanism, Python, Linux.
+enthusiast.  
+My interests are: spatial&nbsp;data&nbsp;science, urbanism, Python, Linux.
 
 I'm part of [Urban Structure](https://uscuni.github.io) research team at
 Charles University, where I mostly do Python programming and sometimes bit of
