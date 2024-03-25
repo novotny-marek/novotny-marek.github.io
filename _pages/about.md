@@ -7,11 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a student of human geography at the Science Faculty of the Charles
-University in Prague, Czechia.
+I'm a student of human geography at Science Faculty, Charles University in
+Prague, Czechia. Apart from geography I'm an open-source, open-science
+enthusiast. My interests are: spatial data science, urbanism, Python, Linux.
 
-I am part of Turris Project at czech domain registry NIC.CZ. Turris project
-aims to make secure and open Linux based routers. I am responsible for
-technical support, returned HW testing and documentation.
+I'm part of [Urban Structure](https://uscuni.github.io) research team at
+Charles University, where I mostly do Python programming and sometimes bit of
+Linux server administration.
 
-dgreyufsehfsdhufsethuiuesietruiseti
+Outside of university I work at [CZ.NIC](https://nic.cz) at
+[Turris](https://turris.cz) as a Tech support specialist. My work consists of
+resolving tickets from our users, improving the documentation and a little bit
+of everything, it's and open-source project :)
